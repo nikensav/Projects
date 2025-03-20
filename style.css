@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/bg2.avif');
+    background-image: url('./bg2.avif');
     background-position: center;
     background-size: cover;
     transform: translate(40%,30%);
