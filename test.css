@@ -7,7 +7,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	font-family: "Roboto", sans-serif;
-	background: linear-gradient(90deg, #979595 50%, #4a1010 50%);
+	background: linear-gradient(90deg, #979595 50%, #535151 50%);
 }
 input{
 	display: none;
